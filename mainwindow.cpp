@@ -27,7 +27,7 @@ MainWindow::MainWindow(QWidget *parent) :
     ui->statusBar->setSizeGripEnabled(false);//去掉状态栏右下角的三角
     QLabel *permanent=new QLabel(this);
     permanent->setFrameStyle(QFrame::Box|QFrame::Sunken);
-    permanent->setText(tr("<a href=\"http://tengweitw.ueuo.com\">For More Information</a>"));
+    permanent->setText(tr("<a href=\"https://github.com/PPGY0711/QT_RSATool\">For More Information</a>"));
     permanent->setOpenExternalLinks(true);//设置可以打开网站链接
     ui->statusBar->addPermanentWidget(permanent);//显示永久信息
 }
