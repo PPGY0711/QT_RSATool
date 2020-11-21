@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/mul">
+        <file>aid/mul/first40primes_mul.txt</file>
+        <file>aid/mul/first45primes_mul.txt</file>
+        <file>aid/mul/first50primes_mul.txt</file>
+        <file>aid/mul/first55primes_mul.txt</file>
+        <file>aid/mul/first60primes_mul.txt</file>
+        <file>aid/mul/first65primes_mul.txt</file>
+        <file>aid/mul/first70primes_mul.txt</file>
+    </qresource>
+    <qresource prefix="/prime">
+        <file>aid/prime/prime512bit.txt</file>
+        <file>aid/prime/prime768bit.txt</file>
+        <file>aid/prime/prime1024bit.txt</file>
+    </qresource>
+</RCC>
